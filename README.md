@@ -9,10 +9,10 @@
 
 ## About Project 
 
-#Laravel project web for three things :
-#--the first for register with recaptcha V2 
-#--the second for validation compte with email address
-#--the third translate all project with three language (French , Arabic, English)
+# Laravel project web for three things : 
+# --the first for register with recaptcha V2 
+# --the second for validation compte with email address
+# --the third translate all project with three language (French , Arabic, English)
 
 
 
@@ -22,8 +22,8 @@ if you need to use it, copy env.example and configure.
 
 ### SMTP configuration
 
-MAIL_MAILER=smtp
-MAIL_HOST=XXXXXXXXXXX
+MAIL_MAILER=smtp </br>
+MAIL_HOST=XXXXXXXXXXX </br>
 MAIL_PORT=587
 MAIL_USERNAME=xxxx.@email.com
 MAIL_PASSWORD=password

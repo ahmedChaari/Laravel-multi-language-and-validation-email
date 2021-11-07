@@ -9,10 +9,10 @@
 
 ## About Project 
 
-Laravel project web for three things :
---the first for register with recaptcha V2 
---the second for validation compte with email address
---the third translate all project with three language (French , Arabic, English)
+#Laravel project web for three things :
+#--the first for register with recaptcha V2 
+#--the second for validation compte with email address
+#--the third translate all project with three language (French , Arabic, English)
 
 
 

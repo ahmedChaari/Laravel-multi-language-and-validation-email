@@ -9,32 +9,32 @@
 
 ## About Project 
 
-# Laravel project web for three things : 
-# --the first for register with recaptcha V2 
-# --the second for validation compte with email address
-# --the third translate all project with three language (French , Arabic, English)
+Laravel project web for three things : </br>
+--the first for register with recaptcha V2 </br>
+--the second for validation compte with email address </br>
+--the third translate all project with three language (French , Arabic, English) </br>
 
 
 
-## configuration Laravel
+## configuration Laravel </br>
 
-if you need to use it, copy env.example and configure.
+if you need to use it, copy env.example and configure. </br>
 
 ### SMTP configuration
 
 MAIL_MAILER=smtp </br>
 MAIL_HOST=XXXXXXXXXXX </br>
-MAIL_PORT=587
-MAIL_USERNAME=xxxx.@email.com
-MAIL_PASSWORD=password
-MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS=contact@email.com
-MAIL_FROM_NAME="${APP_NAME}"
+MAIL_PORT=587 </br>
+MAIL_USERNAME=userName </br>
+MAIL_PASSWORD=password </br>
+MAIL_ENCRYPTION=tls </br>
+MAIL_FROM_ADDRESS=contact@email.com </br>
+MAIL_FROM_NAME="${APP_NAME}" </br>
 
 ### recaptcha configuration
 
-RECAPTCHA_SITE_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxx
-RECAPTCHA_SECRET_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
+RECAPTCHA_SITE_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxx </br>
+RECAPTCHA_SECRET_KEY=xxxxxxxxxxxxxxxxxxxxxxxx </br>
 
 ## License
 
